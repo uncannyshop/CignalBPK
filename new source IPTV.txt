@@ -814,38 +814,6 @@ K+ with sub - https://restreamer.ganbaruby23.xyz/memfs/d6927af0-df7c-4847-9193-7
 NBA TV PH - http://161.49.17.2:6610/001/2/ch00000090990000001064/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 KEY - 31363230383932393934303031373831:36393034643046463738544b77676768
 
-App: Shamel.tv (10213)
-Protocol: HTTP (TCP)
-Host: fan27418.cdngold.me
-Source: 10.215.173.1:57588
-Destination: 185.245.2.105:80
-Status: Active
-URL: http://fan27418.cdngold.me/live/0c1e87173599/c8022dc752/1055644.m3u8
-Decryption: Not encrypted
-Traffic: 2.5 KB received — 1.8 KB sent
-Packets: 12 received — 13 sent
-Payload: 3.3 KB
-Duration: > 1 m
-First seen: 09/14/25 09:20:06.199
-Last seen: 09/14/25 09:21:43.804
-
-
-
-http://fan27418.cdngold.me/live/0c1e87173599/c8022dc752/632406.m3u8
-App: Shamel.tv (10213)
-Protocol: HTTP (TCP)
-Host: fan27418.cdngold.me
-Source: 10.215.173.1:57648
-Destination: 185.245.2.105:80
-Status: Closed
-URL: fan27418.cdngold.me/player_api.php?action=get_short_epg&username=0c1e87173599&password=c8022dc752&stream_id=632406
-Decryption: Not encrypted
-Traffic: 511 B received — 440 B sent
-Packets: 4 received — 5 sent
-Payload: 563 B
-Duration: > 1 m
-First seen: 09/14/25 09:20:44.024
-Last seen: 09/14/25 09:21:44.504
 
 
 SPOTV - https://e108.google-streams.com:9308/v5/VNzV4K2jwIYpP2X79cmH4w/1753442801/ad462f66329fd4360151392f7850b0cc/Wkgph9_bU76vzvWrv0U_DA/1753453481/live/vx-origin/th-spotv1_720/playlist.m3u8
