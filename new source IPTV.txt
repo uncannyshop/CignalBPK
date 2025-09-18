@@ -727,51 +727,9 @@ RPTV
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cnn_rptv_prod_hd/default/index.mpd
 1917f4caf2364e6d9b1507326a85ead6:a1340a251a5aa63a9b0ea5d9d7f67595
 
-http://strong8k:000basti000@194.135.46.17:1234/stream/tstest1/kapamilyahd.ts
-
-http://194.135.46.17:1234/stream/tstest1/kapamilyahd/master.m3u8?u=strong8k&p=54e30ed62d81a18edac1c9bbed29b028c3885074b4c0b58b656e76815a705d9f
-
 
 
 Hope TV PH - https://cdn-kr-icn.becdn.net/hcorg_ROeXKL3HV6a/s/jsl_7A1swL7Fhlh/master.m3u8
-
-HOPE TV PH - http://194.135.46.17:1234/stream/converge/hopetvph/master.m3u8?u=strong8k&p=54e30ed62d81a18edac1c9bbed29b028c3885074b4c0b58b656e76815a705d9f
-
-SMNI ---> INC - http://194.135.46.17:1234/stream/converge/inc/master.m3u8?u=strong8k&p=54e30ed62d81a18edac1c9bbed29b028c3885074b4c0b58b656e76815a705d9f
-
-ONE SPORTS HD ---> Premier Sports - http://194.135.46.17:1234/stream/converge/premieresports/master.m3u8?u=strong8k&p=54e30ed62d81a18edac1c9bbed29b028c3885074b4c0b58b656e76815a705d9f
-
-HILLSONG CHANNEL ---> Premier Sports 2 - http://194.135.46.17:1234/stream/converge/premieresports2/master.m3u8?u=strong8k&p=54e30ed62d81a18edac1c9bbed29b028c3885074b4c0b58b656e76815a705d9f
-
-TELENOVELA ---> UNTV - http://194.135.46.17:1234/stream/converge/untv/master.m3u8?u=strong8k&p=54e30ed62d81a18edac1c9bbed29b028c3885074b4c0b58b656e76815a705d9f
-
-Cartoonito - http://194.135.46.17:1234/stream/converge/cartoonito/master.m3u8?u=strong8k&p=54e30ed62d81a18edac1c9bbed29b028c3885074b4c0b58b656e76815a705d9f
-
-THILL ---> Asian Food Network - http://194.135.46.17:1234/stream/converge/asianfoodnetwork/master.m3u8?u=strong8k&p=54e30ed62d81a18edac1c9bbed29b028c3885074b4c0b58b656e76815a705d9f
-
-
-PH Channel update 
-Hope TV
-SMNI ---> INC
-Premier Sports 
-Premier Sports 2 
-UNTV 
-Cartoonito 
-Asian Food Network
-
-N_m3u8DL-RE "https://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_ott.mpd" -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" -H "Accept: */*" -H "Origin: https://deprecated.cc" --key aa48b28bd723f91214887df6ed9fad10:b5a3a800848120c843ae0fa68c09c261 --use-shaka-packager -M format=mkv
-
-
-IBC 13 HD - http://194.135.46.17:1234/stream/converge/ibc13hd/master.m3u8?u=strong8k&p=54e30ed62d81a18edac1c9bbed29b028c3885074b4c0b58b656e76815a705d9f
-
-NBA TV PH - http://194.135.46.17:1234/stream/converge/nbatvph/master.m3u8?u=strong8k&p=54e30ed62d81a18edac1c9bbed29b028c3885074b4c0b58b656e76815a705d9f
-
-
-MOONBUG KIDS SD ---> Net 25 - http://194.135.46.17:1234/stream/converge/net25/master.m3u8?u=strong8k&p=54e30ed62d81a18edac1c9bbed29b028c3885074b4c0b58b656e76815a705d9f
-
-HILLSONG CHANNEL ---> HGTV PH - http://194.135.46.17:1234/stream/converge/hgtvph/master.m3u8?u=strong8k&p=54e30ed62d81a18edac1c9bbed29b028c3885074b4c0b58b656e76815a705d9f
-
-
 
 
 
@@ -793,22 +751,10 @@ https://t.me/+3GxZofnH4xllZGM0 ---> Movies/Series Updates
 https://bit.ly/strong-4k ---> Website/Downloads
 
 
-
-
-Philippines Channel change Source
-
-HILSONG CHANNEL ---> SPOTV - http://194.135.46.17:1234/stream/converge/spotv/master.m3u8?u=strong8k&p=54e30ed62d81a18edac1c9bbed29b028c3885074b4c0b58b656e76815a705d9f
-
-KBS WORLD ---> SPOTV 2 - http://194.135.46.17:1234/stream/converge/spotv2/master.m3u8?u=strong8k&p=54e30ed62d81a18edac1c9bbed29b028c3885074b4c0b58b656e76815a705d9f
-
-
-
 Teleradyo - https://live-faws.akamaized.net/out/v1/0f237b4532b443928f8911ded53eb92b/index_4.m3u8
 
 Teleradyo - https://live-faws.akamaized.net/out/v1/0f237b4532b443928f8911ded53eb92b/index.m3u8
 
-
-K+ with sub - https://restreamer.ganbaruby23.xyz/memfs/d6927af0-df7c-4847-9193-7cb80882d139.m3u8
 
 
 NBA TV PH - http://161.49.17.2:6610/001/2/ch00000090990000001064/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
