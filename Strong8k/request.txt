@@ -1,69 +1,52 @@
+RPTV - http://51.38.186.126:1234/stream/CignalBPKnew/rptv/master.m3u8?u=strong8k&p=987cbaa2a52b05e175681f7d479f1e946c1124430675bebf5e32e7005a7b4c0c
+
+
 Teleradyo - https://live-faws.akamaized.net/out/v1/0f237b4532b443928f8911ded53eb92b/index.m3u8
 
-Hope TV PH - https://cdn-kr-icn.becdn.net/hcorg_ROeXKL3HV6a/s/jsl_7A1swL7Fhlh/master.m3u8
+
+Hope TV PH - http://51.38.186.126:1234/stream/m3u8/hopetvph/master.m3u8?u=strong8k&p=987cbaa2a52b05e175681f7d479f1e946c1124430675bebf5e32e7005a7b4c0c
+
 
 Abante Radyo - https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
 
-Bilyonaryo Channel - https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c11-amgplt0352/playlist.m3u8
 
-GMA 7 - http://51.38.186.126:1234/stream/converge161/gma7/master.m3u8?u=strong8k&p=987cbaa2a52b05e175681f7d479f1e946c1124430675bebf5e32e7005a7b4c0c
+Bilyonaryo Channel - http://51.38.186.126:1234/stream/m3u8/bilyonaryochannel/master.m3u8?u=strong8k&p=987cbaa2a52b05e175681f7d479f1e946c1124430675bebf5e32e7005a7b4c0c
+
 
 GTV - http://51.38.186.126:1234/stream/converge161/gtv/master.m3u8?u=strong8k&p=987cbaa2a52b05e175681f7d479f1e946c1124430675bebf5e32e7005a7b4c0c
 
-DZRH - http://51.38.186.126:1234/stream/converge161/dzrh/master.m3u8?u=strong8k&p=987cbaa2a52b05e175681f7d479f1e946c1124430675bebf5e32e7005a7b4c0c
-
-Viva Cinema - http://51.38.186.126:1234/stream/CignalBPKnew/viva-cinema/master.m3u8?u=strong8k&p=987cbaa2a52b05e175681f7d479f1e946c1124430675bebf5e32e7005a7b4c0c
-
-UAAP Varsity Channel - http://51.38.186.126:1234/stream/CignalBPKnew/uaap-varsity-channel/master.m3u8?u=strong8k&p=987cbaa2a52b05e175681f7d479f1e946c1124430675bebf5e32e7005a7b4c0c
-
-TV5 - http://51.38.186.126:1234/stream/CignalBPKnew/tv5-hd/master.m3u8?u=strong8k&p=987cbaa2a52b05e175681f7d479f1e946c1124430675bebf5e32e7005a7b4c0c
-
-RPTV - http://51.38.186.126:1234/stream/CignalBPKnew/rptv/master.m3u8?u=strong8k&p=987cbaa2a52b05e175681f7d479f1e946c1124430675bebf5e32e7005a7b4c0c
-
-PBA Rush - http://51.38.186.126:1234/stream/CignalBPKnew/pba-rush-hd/master.m3u8?u=strong8k&p=987cbaa2a52b05e175681f7d479f1e946c1124430675bebf5e32e7005a7b4c0c
-
-IBC 13 - http://51.38.186.126:1234/stream/CignalBPKnew/ibc/master.m3u8?u=strong8k&p=987cbaa2a52b05e175681f7d479f1e946c1124430675bebf5e32e7005a7b4c0c
-
-SPOTV - http://51.38.186.126:1234/stream/CignalBPKnew/spotv-hd/master.m3u8?u=strong8k&p=987cbaa2a52b05e175681f7d479f1e946c1124430675bebf5e32e7005a7b4c0c
-
-SPOTV 2 - http://51.38.186.126:1234/stream/CignalBPKnew/spotv-2-hd/master.m3u8?u=strong8k&p=987cbaa2a52b05e175681f7d479f1e946c1124430675bebf5e32e7005a7b4c0c
-
-Premier Sports - http://51.38.186.126:1234/stream/CignalBPKnew/premier-sports/master.m3u8?u=strong8k&p=987cbaa2a52b05e175681f7d479f1e946c1124430675bebf5e32e7005a7b4c0c
-
-Premier Sports 2 - http://51.38.186.126:1234/stream/CignalBPKnew/premier-sports-2/master.m3u8?u=strong8k&p=987cbaa2a52b05e175681f7d479f1e946c1124430675bebf5e32e7005a7b4c0c
 
 NBA TV PH - http://51.38.186.126:1234/stream/CignalBPKnew/nba-tv-philippines-cignal/master.m3u8?u=strong8k&p=987cbaa2a52b05e175681f7d479f1e946c1124430675bebf5e32e7005a7b4c0c
 
-ONE PH - http://51.38.186.126:1234/stream/CignalBPKnew/one-ph/master.m3u8?u=strong8k&p=987cbaa2a52b05e175681f7d479f1e946c1124430675bebf5e32e7005a7b4c0c
 
-ONE News - http://51.38.186.126:1234/stream/converge161/onenews/master.m3u8?u=strong8k&p=987cbaa2a52b05e175681f7d479f1e946c1124430675bebf5e32e7005a7b4c0c
+DZRH - http://51.38.186.126:1234/stream/converge161/dzrh/master.m3u8?u=strong8k&p=987cbaa2a52b05e175681f7d479f1e946c1124430675bebf5e32e7005a7b4c0c
 
-ONE Sports - http://51.38.186.126:1234/stream/CignalBPKnew/one-sports-hd/master.m3u8?u=strong8k&p=987cbaa2a52b05e175681f7d479f1e946c1124430675bebf5e32e7005a7b4c0c
 
-ONE Sports Plus - http://51.38.186.126:1234/stream/CignalBPKnew/one-sports-plus/master.m3u8?u=strong8k&p=987cbaa2a52b05e175681f7d479f1e946c1124430675bebf5e32e7005a7b4c0c
+IBC 13 - http://51.38.186.126:1234/stream/CignalBPKnew/ibc/master.m3u8?u=strong8k&p=987cbaa2a52b05e175681f7d479f1e946c1124430675bebf5e32e7005a7b4c0c
 
-Animax - http://51.38.186.126:1234/stream/CignalBPKnew/animax/master.m3u8?u=strong8k&p=987cbaa2a52b05e175681f7d479f1e946c1124430675bebf5e32e7005a7b4c0c
+
+SPOTV - http://51.38.186.126:1234/stream/CignalBPKnew/spotv-hd/master.m3u8?u=strong8k&p=987cbaa2a52b05e175681f7d479f1e946c1124430675bebf5e32e7005a7b4c0c
+
+
+SPOTV 2 - http://51.38.186.126:1234/stream/CignalBPKnew/spotv-2-hd/master.m3u8?u=strong8k&p=987cbaa2a52b05e175681f7d479f1e946c1124430675bebf5e32e7005a7b4c0c
+
+
+Premier Sports - http://51.38.186.126:1234/stream/CignalBPKnew/premier-sports/master.m3u8?u=strong8k&p=987cbaa2a52b05e175681f7d479f1e946c1124430675bebf5e32e7005a7b4c0c
+
+
+Premier Sports 2 - http://51.38.186.126:1234/stream/CignalBPKnew/premier-sports-2/master.m3u8?u=strong8k&p=987cbaa2a52b05e175681f7d479f1e946c1124430675bebf5e32e7005a7b4c0c
+
 
 Metro Channel - http://51.38.186.126:1234/stream/converge161/metrochannel/master.m3u8?u=strong8k&p=987cbaa2a52b05e175681f7d479f1e946c1124430675bebf5e32e7005a7b4c0c
 
+
 UNTV - http://51.38.186.126:1234/stream/converge161/untv/master.m3u8?u=strong8k&p=987cbaa2a52b05e175681f7d479f1e946c1124430675bebf5e32e7005a7b4c0c
 
-A2Z - http://51.38.186.126:1234/stream/CignalBPKnew/a2z/master.m3u8?u=strong8k&p=987cbaa2a52b05e175681f7d479f1e946c1124430675bebf5e32e7005a7b4c0c
-
-Buko - http://51.38.186.126:1234/stream/CignalBPKnew/buko/master.m3u8?u=strong8k&p=987cbaa2a52b05e175681f7d479f1e946c1124430675bebf5e32e7005a7b4c0c
-
-Sari Sari - http://51.38.186.126:1234/stream/CignalBPKnew/sari-sari/master.m3u8?u=strong8k&p=987cbaa2a52b05e175681f7d479f1e946c1124430675bebf5e32e7005a7b4c0c
-
-tVn Movies Pinoy - http://51.38.186.126:1234/stream/CignalBPKnew/tvn-movies-pinoy/master.m3u8?u=strong8k&p=987cbaa2a52b05e175681f7d479f1e946c1124430675bebf5e32e7005a7b4c0c
-
-tVn Premium - http://51.38.186.126:1234/stream/CignalBPKnew/tvn-premium-hd/master.m3u8?u=strong8k&p=987cbaa2a52b05e175681f7d479f1e946c1124430675bebf5e32e7005a7b4c0c
-
-PBO - http://51.38.186.126:1234/stream/CignalBPKnew/pbo/master.m3u8?u=strong8k&p=987cbaa2a52b05e175681f7d479f1e946c1124430675bebf5e32e7005a7b4c0c
 
 TMC - http://51.38.186.126:1234/stream/CignalBPKnew/tagalized-movie-channel/master.m3u8?u=strong8k&p=987cbaa2a52b05e175681f7d479f1e946c1124430675bebf5e32e7005a7b4c0c
 
-PTV - http://51.38.186.126:1234/stream/CignalBPKnew/ptv-4/master.m3u8?u=strong8k&p=987cbaa2a52b05e175681f7d479f1e946c1124430675bebf5e32e7005a7b4c0c
 
 HGTV - http://51.38.186.126:1234/stream/converge161/hgtv/master.m3u8?u=strong8k&p=987cbaa2a52b05e175681f7d479f1e946c1124430675bebf5e32e7005a7b4c0c
+
 
 Solar Sports - http://51.38.186.126:1234/stream/converge161/solarsports/master.m3u8?u=strong8k&p=987cbaa2a52b05e175681f7d479f1e946c1124430675bebf5e32e7005a7b4c0c

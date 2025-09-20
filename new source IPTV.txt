@@ -775,3 +775,6 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it
 Animax - http://202.80.222.20/cdn/iptv/Tvod/001/channel2000122/1024.m3u8
 
 Kapamilya - https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-hls-abscbnono/playlist.m3u8
+
+
+UAAP Varsity Channel - http://m.marstvx.com/play/live.php?mac=00:1A:79:4F:B7:73&stream=926145&extension=m3u8&play_token=iQg1SK9AGv
