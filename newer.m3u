@@ -427,7 +427,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/knowledge_channel/default/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_ott.mpd
 
-#EXTINF:-1 group-title="World TV" tvg-id="" tvg-logo="https://i.pinimg.com/736x/68/62/cd/6862cd5ce275ab4faaa8630f25f89860.jpg",One
+#EXTINF:-1 group-title="Entertainment" tvg-id="" tvg-logo="https://i.pinimg.com/736x/68/62/cd/6862cd5ce275ab4faaa8630f25f89860.jpg",One
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -956,10 +956,10 @@ https://d9rpesrrg1bdi.cloudfront.net/out/v1/93b9db7b231d45f28f64f29b86dc6c65/ind
 #KODIPROP:inputstream.adaptive.license_key=c95ed4c44b0b4f7fa1c6ebbbbaab21a1:47635b8e885e19f2ccbdff078c207058
 https://amg01006-abs-cbn-abscbn-gma-x7-dash-abscbnono-dzsx9.amagi.tv/index.mpd
 
-#EXTINF:-1 group-title="World TV" tvg-id="" tvg-logo="https://i.imgur.com/2TeKCBK.png",National Geographic Channel
+#EXTINF:-1 group-title="Documentary" tvg-id="" tvg-logo="https://i.imgur.com/2TeKCBK.png",National Geographic Channel
 http://supersonictv.live:8080/611366/682256/22124
 
-#EXTINF:-1 group-title="World TV" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png",National Geographic Wild
+#EXTINF:-1 group-title="Documentary" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png",National Geographic Wild
 http://supersonictv.live:8080/611366/682256/22125
 
 **********FM Radio**********
